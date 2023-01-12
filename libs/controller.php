@@ -3,7 +3,6 @@
 
 class ControllerGestor{
 
-
     public function __construct()
     {
 
